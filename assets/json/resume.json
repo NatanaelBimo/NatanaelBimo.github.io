@@ -14,122 +14,122 @@
       }
     ]
   },
-"work": [
-  {
-    "name": "Universitas Gadjah Mada (DTETI UGM)",
-    "position": "Research Assistant",
-    "url": "https://ugm.ac.id/id/",
-    "startDate": "2024-01-01",
-    "endDate": "",
-    "summary": "Conducted applied R&D across embedded control, instrumentation, and industrial monitoring systems, contributing to multi-project development and testing.",
-    "highlights": [
-      "Limited-Area Electric Utility Vehicle Development (Thesis Project)",
-      "Smart Concrete Cutting Depth Measuring Tool (Lab Project)",
-      "IoT-Based Safety Monitoring System (Main Capstone Project)",
-      "Non-invasive Bilirubin Measurement for Infants (Capstone Side Project)"
-    ]
-  },
-  {
-    "name": "Universitas Gadjah Mada (DTETI UGM)",
-    "position": "Teaching Assistant / Course Tutor",
-    "url": "https://ugm.ac.id/id/",
-    "startDate": "2023-01-01",
-    "endDate": "2023-12-01",
-    "summary": "Facilitated academic tutorials for Electricity & Magnetism and Fluids, Heat & Waves, assisting undergraduate students in solving complex physics problems.",
-    "highlights": [
-      "Delivered structured tutorial sessions and problem-solving guidance",
-      "Assisted students in mastering analytical physics fundamentals"
-    ]
-  },
-  {
-    "name": "Universitas Gadjah Mada (DTETI UGM)",
-    "position": "Laboratory Assistant",
-    "url": "https://ugm.ac.id/id/",
-    "startDate": "2023-02-01",
-    "endDate": "2024-12-01",
-    "summary": "Supervised Biomedical & Electrical Junior Projects, ensuring safety compliance and providing technical consultation on circuit design and troubleshooting.",
-    "highlights": [
-      "Mentored junior engineering projects with safety-first laboratory practices",
-      "Guided Fundamentals of Programming students in C/C++ logic and debugging"
-    ]
-  },
-  {
-    "name": "Pusat Prestasi Nasional (Kontes Mobil Hemat Energi - KMHE)",
-    "position": "Technical Lead Supervisor",
-    "url": "",
-    "startDate": "2025-10-01",
-    "endDate": "2025-10-31",
-    "summary": "Led the technical inspection team for the national energy-efficient car contest, managing the joulemeter inventory and enforcing rigorous electrical safety protocols.",
-    "highlights": [
-      "Managed joulemeter inspection inventory and operational readiness",
-      "Enforced electrical safety compliance during scrutineering",
-      "Oversaw fuel verification processes for accurate competition scoring"
-    ]
-  },
-  {
-    "name": "Pusat Prestasi Nasional (Kontes Mobil Hemat Energi - KMHE)",
-    "position": "Technical Supervisor",
-    "url": "",
-    "startDate": "2024-10-01",
-    "endDate": "2024-10-31",
-    "summary": "Conducted scrutineering for electrical propulsion systems, verifying compliance with contest regulations regarding battery management and wiring safety.",
-    "highlights": [
-      "Verified electrical propulsion compliance and safety requirements",
-      "Inspected battery management and wiring quality per contest rules"
-    ]
-  },
-  {
-    "name": "Pusat Kajian LKFT UGM (Center for Energy Studies)",
-    "position": "Research Assistant",
-    "url": "",
-    "startDate": "2022-12-01",
-    "endDate": "",
-    "summary": "Conducted techno-economic and regulatory analysis for power system studies, supporting utility policy and industrial electricity planning.",
-    "highlights": [
-      "Study on Parallel Operation Costs for Industrial Customers",
-      "Study of Power Loss Possibilities Regulation in Generation Transformers",
-      "Analysis of the Impact of Electricity Tariff Compensation on the Economy"
-    ]
-  },
-  {
-    "name": "Semar UGM",
-    "position": "Vehicle Manager",
-    "url": "",
-    "startDate": "2023-08-01",
-    "endDate": "2024-09-01",
-    "summary": "Led a prototype battery-electric team and improved energy-efficiency performance across national and international competitions.",
-    "highlights": [
-      "1st place in KMHE 2023 (884.31 km/kWh) and runner-up in Shell Eco-marathon 2024 (903.06 km/kWh)",
-      "Optimized data-driven powertrain strategies contributing to 1st place in the Data & Telemetry Award 2024",
-      "Managed cross-functional teams of 15+ members across mechanical, electrical, and strategy divisions"
-    ]
-  },
-  {
-    "name": "Semar UGM",
-    "position": "Electronics and Electric Powertrain Engineer",
-    "url": "",
-    "startDate": "2022-07-01",
-    "endDate": "2023-08-01",
-    "summary": "Designed electrical architecture and contributed to telemetry systems and autonomous programming efforts for energy-efficiency competitions.",
-    "highlights": [
-      "Designed electrical architecture contributing to 1st place in Shell Eco-marathon 2023 (779.57 km/kWh)",
-      "Implemented telemetry and data analytics system earning 2nd place in Data & Telemetry Award 2023",
-      "Contributed to ROS programming team earning 1st place in Autonomous Programming Competition 2023"
-    ]
-  },
-  {
-    "name": "PT PLN Enjiniring",
-    "position": "Electrical Engineering Consultant Intern",
-    "url": "",
-    "startDate": "2024-01-01",
-    "endDate": "2024-03-01",
-    "summary": "Conducted feasibility study for grid integration of a 200 MW Gas Engine and 500 MW Combined Cycle Power Plant into the Bali power system.",
-    "highlights": [
-      "Analyzed power flow constraints and load balancing requirements to ensure system stability during peak demand",
-      "Supported integration feasibility studies for large-scale generation assets"
-    ]
-  }
-],
+  "work": [
+    {
+      "name": "Universitas Gadjah Mada (DTETI UGM)",
+      "position": "Research Assistant",
+      "url": "https://ugm.ac.id/id/",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "Conducted applied R&D across embedded control, instrumentation, and industrial monitoring systems, contributing to multi-project development and testing.",
+      "highlights": [
+        "Limited-Area Electric Utility Vehicle Development (Thesis Project)",
+        "Smart Concrete Cutting Depth Measuring Tool (Lab Project)",
+        "IoT-Based Safety Monitoring System (Main Capstone Project)",
+        "Non-invasive Bilirubin Measurement for Infants (Capstone Side Project)"
+      ]
+    },
+    {
+      "name": "Universitas Gadjah Mada (DTETI UGM)",
+      "position": "Teaching Assistant / Course Tutor",
+      "url": "https://ugm.ac.id/id/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-01",
+      "summary": "Facilitated academic tutorials for Electricity & Magnetism and Fluids, Heat & Waves, assisting undergraduate students in solving complex physics problems.",
+      "highlights": [
+        "Delivered structured tutorial sessions and problem-solving guidance",
+        "Assisted students in mastering analytical physics fundamentals"
+      ]
+    },
+    {
+      "name": "Universitas Gadjah Mada (DTETI UGM)",
+      "position": "Laboratory Assistant",
+      "url": "https://ugm.ac.id/id/",
+      "startDate": "2023-02-01",
+      "endDate": "2024-12-01",
+      "summary": "Supervised Biomedical & Electrical Junior Projects, ensuring safety compliance and providing technical consultation on circuit design and troubleshooting.",
+      "highlights": [
+        "Mentored junior engineering projects with safety-first laboratory practices",
+        "Guided Fundamentals of Programming students in C/C++ logic and debugging"
+      ]
+    },
+    {
+      "name": "Pusat Prestasi Nasional (Kontes Mobil Hemat Energi - KMHE)",
+      "position": "Technical Lead Supervisor",
+      "url": "",
+      "startDate": "2025-10-01",
+      "endDate": "2025-10-31",
+      "summary": "Led the technical inspection team for the national energy-efficient car contest, managing the joulemeter inventory and enforcing rigorous electrical safety protocols.",
+      "highlights": [
+        "Managed joulemeter inspection inventory and operational readiness",
+        "Enforced electrical safety compliance during scrutineering",
+        "Oversaw fuel verification processes for accurate competition scoring"
+      ]
+    },
+    {
+      "name": "Pusat Prestasi Nasional (Kontes Mobil Hemat Energi - KMHE)",
+      "position": "Technical Supervisor",
+      "url": "",
+      "startDate": "2024-10-01",
+      "endDate": "2024-10-31",
+      "summary": "Conducted scrutineering for electrical propulsion systems, verifying compliance with contest regulations regarding battery management and wiring safety.",
+      "highlights": [
+        "Verified electrical propulsion compliance and safety requirements",
+        "Inspected battery management and wiring quality per contest rules"
+      ]
+    },
+    {
+      "name": "Pusat Kajian LKFT UGM (Center for Energy Studies)",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2022-12-01",
+      "endDate": "",
+      "summary": "Conducted techno-economic and regulatory analysis for power system studies, supporting utility policy and industrial electricity planning.",
+      "highlights": [
+        "Study on Parallel Operation Costs for Industrial Customers",
+        "Study of Power Loss Possibilities Regulation in Generation Transformers",
+        "Analysis of the Impact of Electricity Tariff Compensation on the Economy"
+      ]
+    },
+    {
+      "name": "Semar UGM",
+      "position": "Vehicle Manager",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "2024-09-01",
+      "summary": "Led a prototype battery-electric team and improved energy-efficiency performance across national and international competitions.",
+      "highlights": [
+        "1st place in KMHE 2023 (884.31 km/kWh) and runner-up in Shell Eco-marathon 2024 (903.06 km/kWh)",
+        "Optimized data-driven powertrain strategies contributing to 1st place in the Data & Telemetry Award 2024",
+        "Managed cross-functional teams of 15+ members across mechanical, electrical, and strategy divisions"
+      ]
+    },
+    {
+      "name": "Semar UGM",
+      "position": "Electronics and Electric Powertrain Engineer",
+      "url": "",
+      "startDate": "2022-07-01",
+      "endDate": "2023-08-01",
+      "summary": "Designed electrical architecture and contributed to telemetry systems and autonomous programming efforts for energy-efficiency competitions.",
+      "highlights": [
+        "Designed electrical architecture contributing to 1st place in Shell Eco-marathon 2023 (779.57 km/kWh)",
+        "Implemented telemetry and data analytics system earning 2nd place in Data & Telemetry Award 2023",
+        "Contributed to ROS programming team earning 1st place in Autonomous Programming Competition 2023"
+      ]
+    },
+    {
+      "name": "PT PLN Enjiniring",
+      "position": "Electrical Engineering Consultant Intern",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-01",
+      "summary": "Conducted feasibility study for grid integration of a 200 MW Gas Engine and 500 MW Combined Cycle Power Plant into the Bali power system.",
+      "highlights": [
+        "Analyzed power flow constraints and load balancing requirements to ensure system stability during peak demand",
+        "Supported integration feasibility studies for large-scale generation assets"
+      ]
+    }
+  ],
   "volunteer": [
     {
       "organization": "People's Climate March",
@@ -139,7 +139,10 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
+        "Men of the year 2014 by Time magazine"
+      ]
     }
   ],
   "education": [
@@ -163,7 +166,7 @@
       ]
     }
   ],
-"awards": [
+  "awards": [
     {
       "title": "1st Place — Prototype Battery Electric",
       "date": "2023-07-01",
@@ -206,24 +209,23 @@
       "url": "",
       "summary": "National champion with an efficiency result of 884.31 km/kWh through optimized electrical architecture."
     }
-  ]
-  ,
-"certificates": [
-  {
-    "name": "Active Energy Efficiency Using Speed Control",
-    "date": "2023-08-01",
-    "issuer": "Schneider Electric",
-    "url": "https://schneider.efrontlearning.com/certificates/serial/6ebfd82339da5726c65e967aaf9b50a7",
-    "icon": "fa-solid fa-bolt"
-  },
-  {
-    "name": "MATLAB Onramp",
-    "date": "2023-07-01",
-    "issuer": "MathWorks",
-    "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=74b9ca92-fbd4-44cc-b4e4-1fb377da6bd6&",
-    "icon": "fa-solid fa-laptop-code"
-  }
-],
+  ],
+  "certificates": [
+    {
+      "name": "Active Energy Efficiency Using Speed Control",
+      "date": "2023-08-01",
+      "issuer": "Schneider Electric",
+      "url": "https://schneider.efrontlearning.com/certificates/serial/6ebfd82339da5726c65e967aaf9b50a7",
+      "icon": "fa-solid fa-bolt"
+    },
+    {
+      "name": "MATLAB Onramp",
+      "date": "2023-07-01",
+      "issuer": "MathWorks",
+      "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=74b9ca92-fbd4-44cc-b4e4-1fb377da6bd6&",
+      "icon": "fa-solid fa-laptop-code"
+    }
+  ],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -311,52 +313,52 @@
     }
   ],
   "projects": [
-  {
-    "name": "CAN-based Networked Control System for Electric Utility Vehicle Coordination",
-    "summary": "Designed a distributed vehicle control system using a CAN Bus architecture (SAE J1939-inspired) to coordinate multiple subsystems and reduce point-to-point wiring complexity.",
-    "highlights": [
-      "Architected CAN-based distributed control to reduce harness complexity and weight",
-      "Designed a custom STM32-based Main Control Unit with real-time task scheduling",
-      "Developed and validated an MCP2515 CAN interface library and measured latency under varying bus loads"
-    ],
-    "startDate": "2024-09-01",
-    "endDate": "",
-    "url": "https://natanaelbimo.github.io/"
-  },
-  {
-    "name": "Integrated Concrete Cutting Depth Measuring Device for Toll Roads (with Website Application)",
-    "summary": "Developed a ruggedized digital depth gauge system for toll road quality control, integrating PCB design, firmware filtering, and field-ready enclosure integration.",
-    "highlights": [
-      "Designed power distribution and sensor interface PCB for industrial field deployment",
-      "Developed firmware filtering to reduce noise from uneven concrete surfaces",
-      "Coordinated integration with mechanical enclosure design for on-site usage"
-    ],
-    "startDate": "2024-07-01",
-    "endDate": "2024-10-01",
-    "url": "https://natanaelbimo.github.io/"
-  },
-  {
-    "name": "IoT-Based Safety Monitoring System: Sensor Optimization & Human Tracking for Waste Facilities",
-    "summary": "Built an OHS monitoring system integrating gas sensors and tracking modules to mitigate hazardous exposure in a waste processing facility, including PCB, enclosure, and firmware development.",
-    "highlights": [
-      "Led development of an OHS monitoring system for TPST Sindu Mandiri",
-      "Designed PCB and enclosure for durability in harsh environments",
-      "Developed firmware for real-time sensor acquisition and wireless transmission to a safety dashboard"
-    ],
-    "startDate": "2024-02-01",
-    "endDate": "2024-06-01",
-    "url": "https://natanaelbimo.github.io/"
-  },
-  {
-    "name": "Hardware Design of Non-invasive Bilirubin Measurement for Infants",
-    "summary": "Designed optical sensor signal-conditioning hardware for non-invasive bilirubin measurement and implemented serial communication to interface the measurement device with a display unit.",
-    "highlights": [
-      "Designed analog front-end and signal conditioning circuits for optical sensors",
-      "Implemented serial communication protocols for real-time monitoring interface"
-    ],
-    "startDate": "2024-02-01",
-    "endDate": "2024-06-01",
-    "url": "https://natanaelbimo.github.io/"
-  }
-]
+    {
+      "name": "CAN-based Networked Control System for Electric Utility Vehicle Coordination",
+      "summary": "Designed a distributed vehicle control system using a CAN Bus architecture (SAE J1939-inspired) to coordinate multiple subsystems and reduce point-to-point wiring complexity.",
+      "highlights": [
+        "Architected CAN-based distributed control to reduce harness complexity and weight",
+        "Designed a custom STM32-based Main Control Unit with real-time task scheduling",
+        "Developed and validated an MCP2515 CAN interface library and measured latency under varying bus loads"
+      ],
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "url": "https://natanaelbimo.github.io/"
+    },
+    {
+      "name": "Integrated Concrete Cutting Depth Measuring Device for Toll Roads (with Website Application)",
+      "summary": "Developed a ruggedized digital depth gauge system for toll road quality control, integrating PCB design, firmware filtering, and field-ready enclosure integration.",
+      "highlights": [
+        "Designed power distribution and sensor interface PCB for industrial field deployment",
+        "Developed firmware filtering to reduce noise from uneven concrete surfaces",
+        "Coordinated integration with mechanical enclosure design for on-site usage"
+      ],
+      "startDate": "2024-07-01",
+      "endDate": "2024-10-01",
+      "url": "https://natanaelbimo.github.io/"
+    },
+    {
+      "name": "IoT-Based Safety Monitoring System: Sensor Optimization & Human Tracking for Waste Facilities",
+      "summary": "Built an OHS monitoring system integrating gas sensors and tracking modules to mitigate hazardous exposure in a waste processing facility, including PCB, enclosure, and firmware development.",
+      "highlights": [
+        "Led development of an OHS monitoring system for TPST Sindu Mandiri",
+        "Designed PCB and enclosure for durability in harsh environments",
+        "Developed firmware for real-time sensor acquisition and wireless transmission to a safety dashboard"
+      ],
+      "startDate": "2024-02-01",
+      "endDate": "2024-06-01",
+      "url": "https://natanaelbimo.github.io/"
+    },
+    {
+      "name": "Hardware Design of Non-invasive Bilirubin Measurement for Infants",
+      "summary": "Designed optical sensor signal-conditioning hardware for non-invasive bilirubin measurement and implemented serial communication to interface the measurement device with a display unit.",
+      "highlights": [
+        "Designed analog front-end and signal conditioning circuits for optical sensors",
+        "Implemented serial communication protocols for real-time monitoring interface"
+      ],
+      "startDate": "2024-02-01",
+      "endDate": "2024-06-01",
+      "url": "https://natanaelbimo.github.io/"
+    }
+  ]
 }

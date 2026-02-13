@@ -1,0 +1,47 @@
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <title>Blog — Natanael Bimo</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    </head>
+    <body>
+
+        <main class="section">
+        <article class="article">
+            <h1>EV Control Unit (CAN-Based)</h1>
+
+            <p>
+            This article explains the design of a CAN-based main control unit
+            for a low-speed electric vehicle, focusing on system architecture
+            and control constraints.
+            </p>
+
+            <h2>System Overview</h2>
+            <p>
+            The control unit coordinates throttle input, motor drive,
+            direction control, and display feedback.
+            </p>
+
+            <h2>Hardware Architecture</h2>
+            <ul>
+            <li>STM32 microcontroller</li>
+            <li>MCP2515 CAN controller</li>
+            <li>48 V, 3 kW DC motor</li>
+            </ul>
+
+            <h2>CAN Message Design</h2>
+            <pre><code>
+        ID: 0x101
+        Byte0: Throttle
+        Byte1: Direction
+            </code></pre>
+
+            <h2>Results</h2>
+            <p>
+            The system achieved stable torque control and
+            reliable communication under load.
+            </p>
+        </article>
+        </main>
+    </body>
+</html> 
